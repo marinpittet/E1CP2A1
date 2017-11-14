@@ -1,0 +1,71 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+	background-color: #A32238;
+	text-align: center;
+	height: 150px;
+}
+.title h2{
+	font-family: 'El Rio Lobo';
+	color: #F3AD30;
+	letter-spacing: 0.1rem;
+	padding-top: 50px;
+	font-size: 28px;
+}
+.title h3 {
+	color: white;
+	font-weight: normal;
+	padding-top: 5px;
+}
+.azul {
+	background-color: #0189C0;
+}
+.azul img {
+	width: 40%;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #0189C0;
+	display: block;
+}
+.bruja {
+	background-image: url(../images/cuzco2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 600px;
+	padding-top: 0;
+}
+.bruja h2 {
+	text-align: right;
+	font-family: 'El Rio Lobo';
+	color: #F3AD30; 	
+	font-size: 28px;
+}
+.bruja p {
+	color: white;
+	text-align: right;
+	padding-top: 5px;
+	font-size: 20px;
+}
+.precios {
+	font-family: 'El Rio Lobo';
+	text-align: center;
+	font-size: 5em;
+	margin: 20px;
+}
+.precios p{
+	padding-bottom: 20px;
+}
+.precios li{
+	text-align: left;
+	padding-left: 20%;
+	padding-bottom: 15px; 
+}
+.precios span {
+	padding-left: 50px;
+}
